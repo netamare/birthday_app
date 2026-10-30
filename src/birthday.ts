@@ -1,0 +1,78 @@
+// Edit this file to personalize the surprise without changing the app layout.
+export const birthday = {
+  nickname: 'yene yabuuuuu',
+  // Set YYYY-MM-DD here, or choose a date in the countdown on the page.
+  date: '',
+  secretEntrance: 'You found the quiet little corner of the internet I made just for you. Ready for a birthday day that’s all yours?',
+  finalLetter: 'Happy birthday, my guy. Thanks for being the kind of friend who makes life feel more fun, more honest, and a whole lot less heavy. I hope this year brings you room to grow, reasons to laugh, and plenty of moments you’re proud of. Wherever life takes us, you can always count on me. Keep being you. The world is better with you in it.',
+  vaultCode: 'bestbro',
+  vaultHint: 'Two words: best + bro, written together.',
+  vaultMessage: 'You have a gift for making people feel welcome. Never underestimate how much your steady friendship means. Your next adventure is going to be a good one.',
+  wish: [
+    'Happy birthday to one of the realest people in my life.',
+    'I’m grateful for every laugh, every random conversation, and all the little moments that somehow become our best memories. You make ordinary days feel lighter just by being yourself.',
+    'I hope this new chapter brings you peace, good health, success, and the confidence to go after everything you dream about. Keep being the kind, funny, driven person you are. I’ll always be in your corner.',
+    'Here’s to more adventures, more ridiculous stories, and many more birthdays together. You deserve a year that feels as good as the friendship you give to everyone around you. Love you, bro. 🤍',
+  ],
+  photos: [
+    { src: '/memories/photo_1.jpg', caption: 'A proper portrait for the birthday legend', detail: 'Looking sharp, as always.' },
+    { src: '/memories/photo_2.jpg', caption: 'That unmistakable smile', detail: 'A face that makes any day better.' },
+    { src: '/memories/photo_4.jpg', caption: 'Big energy, bigger memories', detail: 'Main character moment.' },
+    { src: '/memories/Photo_5.jpg', caption: 'The unserious side we love', detail: 'Never change, my guy.' },
+  ],
+  timeline: [
+    { mark: '01', date: 'A little every day', title: 'The easy laughs', text: 'The kind of conversation that starts anywhere and somehow turns into a story we keep bringing up.', image: '/memories/photo_2.jpg' },
+    { mark: '02', date: 'The moments we show up', title: 'Showing up', text: 'The small check-ins and the big moments. You have a way of making people feel they’re not doing life alone.', image: '/memories/photo_4.jpg' },
+    { mark: '03', date: 'Still being written', title: 'What comes next', text: 'More places to go, more memories to make, and the same solid friendship through every new chapter.', image: '/memories/Photo_5.jpg' },
+  ],
+  reasons: [
+    { icon: '🤝', title: 'You show up', detail: 'The kind of friend who makes hard days feel lighter. I never take that for granted.' },
+    { icon: '😂', title: 'You make anything funny', detail: 'Even a random ordinary day turns into a story when you’re around.' },
+    { icon: '💪', title: 'You keep it real', detail: 'You tell the truth with a good heart, and remind me to keep being myself too.' },
+    { icon: '🌟', title: 'You dream big', detail: 'I love seeing you go after what matters to you. I’ll always be in your corner.' },
+  ],
+  quiz: [
+    { question: 'Who turns a quick catch-up into a full story?', options: ['You', 'Me', 'Both of us'], answer: 'Both of us' },
+    { question: 'What’s the best ingredient in any plan?', options: ['Good food', 'Good company', 'A perfect schedule'], answer: 'Good company' },
+    { question: 'What does this next year have in store?', options: ['Big wins', 'Great memories', 'All of the above'], answer: 'All of the above' },
+  ],
+  openWhen: [
+    { mood: 'When you feel low', icon: '🌧️', title: 'A reminder for the heavy days', text: 'You don’t have to have everything figured out today. Take a breath, take the next small step, and remember you’ve got people in your corner. I’m one of them, always.' },
+    { mood: 'When you’re happy', icon: '☀️', title: 'Save a little of this feeling', text: 'I hope you’re taking it all in. You work hard, you care about people, and you deserve every good thing that finds you. Enjoy this one properly.' },
+    { mood: 'When life gets stressful', icon: '🧭', title: 'One thing at a time', text: 'You’ve handled hard things before, and you don’t need to solve the whole week in one night. Eat something, get some rest, and call me if you need a hand.' },
+    { mood: 'When you need motivation', icon: '🚀', title: 'Keep going, my guy', text: 'Your goals are worth the effort you’re putting in. Progress counts even when it’s quiet. Keep showing up; I already know you’re capable of more than you think.' },
+  ],
+  reasons100: [
+    'You show up when it matters.', 'You make a boring day feel like a story.', 'You can make me laugh at exactly the wrong time.', 'You listen without turning everything into a competition.', 'You keep it honest, even when honesty takes effort.',
+    'You remember the small things people tell you.', 'You make new people feel included.', 'You have excellent “let’s get food” instincts.', 'You give advice without acting like you know everything.', 'You are quietly one of the most dependable people I know.',
+    'You celebrate other people’s wins like they are your own.', 'You can turn a five-minute chat into a whole podcast.', 'You never make being yourself feel like too much.', 'You bring calm when plans go sideways.', 'You make loyalty look easy.',
+    'You have a laugh that gives away the punchline.', 'You can be serious and ridiculous in the same sentence.', 'You make simple plans feel special.', 'You check in even when life gets busy.', 'You are good company in comfortable silence.',
+    'You try again after a rough day.', 'You make people feel safe to be honest.', 'You can find the funny side without making fun of someone.', 'You give people room to grow.', 'You have the courage to keep learning.',
+    'You are generous with your time.', 'You never need the spotlight to make a difference.', 'You know when to joke and when to listen.', 'You make teamwork feel less like work.', 'You are the friend I can call with absolutely no context.',
+    'You always have a strong opinion about the food order.', 'You make a “quick stop” an adventure.', 'You bring good energy without forcing it.', 'You can make a questionable idea sound convincing.', 'You make “we should catch up” actually happen.',
+    'You are thoughtful in ways you probably do not notice.', 'You encourage people to aim higher.', 'You respect people even when you disagree.', 'You make the people around you more confident.', 'You can laugh at yourself, which is a rare skill.',
+    'You have great stories and somehow always leave out the key detail first.', 'You make patience look possible.', 'You remember that friendship is built in the little moments.', 'You are willing to own it when you get something wrong.', 'You notice when someone needs a check-in.',
+    'You make a group chat worth opening.', 'You bring the kind of humor that improves a long day.', 'You are a reliable partner in any harmless scheme.', 'You can make a regular walk feel like a life update special.', 'You do not pretend to be someone you are not.',
+    'You keep your promises.', 'You make new challenges feel less intimidating.', 'You know how to give people credit.', 'You make a good day even better.', 'You give people a reason to look forward to the next hangout.',
+    'You can be counted on, and that is a big deal.', 'You have a good heart under all the jokes.', 'You handle change with more grit than you give yourself credit for.', 'You make it okay to ask for help.', 'You bring people together.',
+    'You never let a friend celebrate alone.', 'You ask the question everyone else is thinking.', 'You can turn an ordinary photo into a classic memory.', 'You are good at finding the one song everyone knows.', 'You make teamwork feel like friendship.',
+    'You make people feel respected.', 'You bring effort, not excuses.', 'You know how to reset after a tough week.', 'You make the future feel a little more exciting.', 'You give compliments that actually mean something.',
+    'You make being dependable look cool.', 'You can make a quiet room feel comfortable.', 'You make people laugh without punching down.', 'You ask for the extra sauce. Correctly.', 'You bring a solid playlist opinion to the table.',
+    'You are always up for one more good memory.', 'You help people feel like they belong.', 'You do not give up on the people you care about.', 'You bring your full self to a friendship.', 'You can make a tiny win feel worth celebrating.',
+    'You handle responsibility and still know how to have fun.', 'You make honest conversations easier.', 'You are proud of your people.', 'You make the people around you feel appreciated.', 'You have the best kind of confidence: the kind that leaves space for others.',
+    'You are a reminder that good friends are real.', 'You make the tough conversations less scary.', 'You bring steady energy when everything else is loud.', 'You make a birthday feel like an excuse to say what should be said more often.', 'You know how to show up without needing applause.',
+    'You keep making progress, even when nobody sees it.', 'You have a good instinct for when a friend needs a laugh.', 'You turn shared memories into running jokes.', 'You have more potential than you let yourself admit.', 'You make friendship feel simple in the best way.',
+    'You are one of the realest people in my life.', 'You make the people around you want to be better.', 'You are someone I am genuinely grateful to know.', 'You deserve good things, good people, and a year full of wins.', 'You are my best friend, and that is reason enough.'
+  ],
+  treasure: [
+    { clue: 'I hold the little moments you can look back at, and this app has a whole page of me. Where should you go?', answer: 'memories', options: ['Memories', 'Countdown', 'Awards'] },
+    { clue: 'I have layers, candles, and a wish waiting to happen. Find me and tap the flame.', answer: 'cake', options: ['Music', 'Cake', 'Timeline'] },
+    { clue: 'I wait behind a small box, ready to share a note just for you. What should you open?', answer: 'gift', options: ['Quiz', 'Gift', 'Time capsule'] },
+  ],
+  awards: [
+    { title: 'The “Always Shows Up” Award', badge: '🏅', note: 'For being steady, thoughtful, and there when it counts.' },
+    { title: 'Chief of Unplanned Adventures', badge: '🧭', note: 'For turning “we’ll see” into a day we still talk about.' },
+    { title: 'Lifetime Achievement in Good Banter', badge: '🎙️', note: 'For excellent timing and a frankly unreasonable number of running jokes.' },
+    { title: 'The Real One Award', badge: '🏆', note: 'No contest. Thanks for being exactly the friend you are.' },
+  ],
+}
